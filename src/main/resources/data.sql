@@ -1,0 +1,1 @@
+insert into dog_breed(id,breed,origin) values(0,'Nati','indian')
